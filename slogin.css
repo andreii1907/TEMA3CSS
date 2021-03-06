@@ -1,0 +1,52 @@
+
+.form{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 180px;
+    border:1px solid rgb(197, 197, 197) ;
+    padding: 50px;
+    box-shadow: 5px 5px 5px 15px rgb(212, 212, 212) ;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+
+
+h2{
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+}
+
+#uname, #pword{
+    width: 300px;
+    border:1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+
+button{
+    width: 322px;
+    padding: 15px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(108, 160, 60);
+    color: white;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color:rgb(136, 224, 85);
+}
+
+input[type="checkbox"]{
+    margin-left:0px;
+}
+
+sup{
+    color: red;
+    margin-left:2px;
+}
+
